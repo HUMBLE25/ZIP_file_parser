@@ -1,3 +1,4 @@
 
 .codegpt
 *.bin
+__pycache__
